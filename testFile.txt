@@ -7,8 +7,6 @@ Repo test
 	 deserunt mollit anim id est laborum.
 
 
-This line has been updated for the branch test
-
 
 	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et 
 	dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip 
@@ -17,9 +15,6 @@ This line has been updated for the branch test
 	mollit anim id est laborum.
 
 dsfa
-dfsa
-f
-asd
 fa
 sdf
 ads
