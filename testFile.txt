@@ -8,18 +8,19 @@ Repo test
 
 	 updated in fork
 
-	 dafs
-	 ads
-	 f
-	 adsf
-	 asdfadsf
+	 this is my new awsome feature
 
-	 dasf
 	ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
 
+	awsome feature
+
+	awsome feature
+
+	test test
 	merge conflict?
 
 	fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+	pull request 2
 	mollit anim id est laborum.
 
 test
