@@ -19,6 +19,8 @@ Repo test
 
 	awsome feature
 
+	awsome feature
+
 	test test
 	merge conflict?
 
